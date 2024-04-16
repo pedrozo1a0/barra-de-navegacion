@@ -1,0 +1,28 @@
+.nav{
+    
+    font-family: "Itim", cursive;
+    font-weight: 200;
+    font-style: normal;
+    height: 60px;
+    background-color: rgb(61, 60, 60);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.nav-links{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+    /* align-items: center;  */
+}
+.btn{
+    background-color: rgb(84, 207, 245);
+    box-shadow: 3px 3px black ;
+    color: rgb(224, 223, 223);
+}
+/* .nav-title{
+    height: 0px;
+} */
+
